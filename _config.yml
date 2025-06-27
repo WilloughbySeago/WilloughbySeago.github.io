@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Willoughby Seago
 description: PhD student in mathematics and Maclaurin scholar at the University of Glasgow
+include:
+- _pages
