@@ -1,6 +1,8 @@
+---
 layout: page
 title: "About"
 permalink: /about
+---
 
 # About Me
 I'm a first year PhD student at the University of Glasgow.
