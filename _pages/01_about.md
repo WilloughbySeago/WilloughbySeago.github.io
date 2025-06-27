@@ -7,7 +7,8 @@ I'm a first year PhD student at the University of Glasgow.
 My research interests can broadly be described as representation theory and its applications to integrable systems.
 I'm supervised by [Christian Korff](https://sites.google.com/view/christiankorff/home/) and [Claire Gilson](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/clairegilson).
 
-My research so far has focused on applications of lattice models, inspired by statistical mechanics, to perform combinatorial calculations corresponding to objects like the \(R\)-matrices of quantum groups.
+My research so far has focused on applications of lattice models, inspired by statistical mechanics, to perform combinatorial calculations in the representation theory of various objects, including the symmetric group, quantum groups, Hecke algebras, Temperley-Lieb algebras, and Yang-Baxter algebras.
+
 
 I'm also a [Maclaurin scholar](https://www.gla.ac.uk/schools/mathematicsstatistics/research/postgraduate/#themaclaurinscholarship), meaning that I spend 1/3 of my time teaching. So far I've tutored on the first year mathematics course, as well as the third year dynamical systems course. Next year I'll start lecturing!
 
