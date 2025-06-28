@@ -9,5 +9,6 @@ minima:
   nav_pages:
     - about.md
     - teaching.md
+    - talks.md
     - conferences.md
     - contact.md
