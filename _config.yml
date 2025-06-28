@@ -6,4 +6,4 @@ include:
 - _pages
 
 header_pages:
-  - _pages/01_about.md
+- _pages/01_about.md
