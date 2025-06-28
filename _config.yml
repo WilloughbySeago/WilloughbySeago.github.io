@@ -8,3 +8,6 @@ include:
 minima:
   nav_pages:
     - about.md
+    - teaching.md
+    - conferences.md
+    - contact.md
