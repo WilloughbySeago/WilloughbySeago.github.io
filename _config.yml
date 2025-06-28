@@ -5,5 +5,6 @@ description: PhD student in mathematics and Maclaurin scholar at the University 
 include:
 - _pages
 
-header_pages:
-- _pages/01_about.md
+minima:
+  nav_pages:
+    - 01_about.md
