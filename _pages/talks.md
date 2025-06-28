@@ -1,6 +1,8 @@
 ---
 title: Talks
 permalink: /talks
+nav-include: true
+nav-order: 3
 ---
 
 ## Past Talks
