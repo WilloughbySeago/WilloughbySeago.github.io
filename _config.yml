@@ -7,4 +7,4 @@ include:
 
 minima:
   nav_pages:
-    - 01_about.md
+    - about.md
