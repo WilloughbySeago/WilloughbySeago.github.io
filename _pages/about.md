@@ -1,6 +1,8 @@
 ---
 title: "About"
 permalink: /about
+nav-include: true
+nav-order: 1
 ---
 I'm a first year PhD student at the University of Glasgow.
 My research interests can broadly be described as representation theory and its applications to integrable systems.
