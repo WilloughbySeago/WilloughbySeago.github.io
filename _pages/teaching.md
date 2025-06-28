@@ -1,6 +1,8 @@
 ---
 title: Teaching
 permalink: /teaching
+nav-include: true
+nav-order: 2
 ---
 
 I'm a [Macluarin scholar](https://www.gla.ac.uk/schools/mathematicsstatistics/research/postgraduate/#themaclaurinscholarship) at the University of Glasgow.
