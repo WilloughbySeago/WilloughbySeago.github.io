@@ -1,6 +1,8 @@
 ---
 title: Conferences
 permalink: /conferences
+nav-include: true
+nav-order: 4
 ---
 
 # Upcoming Conferences
