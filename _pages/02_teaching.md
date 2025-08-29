@@ -5,7 +5,7 @@ nav-include: true
 nav-order: 2
 ---
 
-I'm a [Macluarin scholar](https://www.gla.ac.uk/schools/mathematicsstatistics/research/postgraduate/#themaclaurinscholarship) at the University of Glasgow.
+I'm a [Maclaurin scholar](https://www.gla.ac.uk/schools/mathematicsstatistics/research/postgraduate/#themaclaurinscholarship) at the University of Glasgow.
 This means that I spend 1/3 of my time teaching.
 So far I've been tutoring and marking on several courses.
 Next year I'll start lecturing.
