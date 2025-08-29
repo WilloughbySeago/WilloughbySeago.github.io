@@ -4,6 +4,6 @@ I'm supervised by [Christian Korff](https://sites.google.com/view/christiankorff
 
 I'm also a [Maclaurin scholar](https://www.gla.ac.uk/schools/mathematicsstatistics/research/postgraduate/#themaclaurinscholarship), meaning that I spend 1/3 of my time teaching. So far I've tutored on the first year mathematics course, as well as the third year dynamical systems course. Next year I'll start lecturing!
 
-I'm on the [Algebra, Geometry and Quantum Fields CDT](https://www.agq-cdt.org/), my own research falling mostly in the algebra category with some applications to quantum fields, and the occasional appearnance of some geometry.
+I'm on the [Algebra, Geometry and Quantum Fields CDT](https://www.agq-cdt.org/), my own research falling mostly in the algebra category with some applications to quantum fields, and the occasional appearance of some geometry.
 
 Before coming to Glasgow I completed an integrated masters in theoretical physics at the University of Edinburgh. My interests in physics were in the mathematics, particularly representation theory, underlying much of quantum theory. My masters project was on the representation theory of the symmetric group and related representation theory of Lie algebras, and I was supervised by [Tony Kennedy](https://www.ph.ed.ac.uk/people/tony-kennedy).
