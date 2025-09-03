@@ -14,6 +14,11 @@ Details on courses at Glasgow can be found [here](https://www.gla.ac.uk/courseca
 
 S1 and S2 mean semester 1 and 2, Y means the whole academic year.
 
+# Current Teaching
+* Engineering Mathematics 1 Lecturer 2025/26
+    * Block 1 (S1): Algebra, functions, errors, trig, exponetials and logarithms
+    * Block 4 (S2): Differentiation, chain/product rule, optimisation, Taylor series, Newton-Raphson
+
 # Past Teaching
 ## Lecturing
 * [Widening Participation Summer School](https://www.gla.ac.uk/study/wp/summerschool/) 2025, lecturer for two weeks, covering sets, functions, and differentiation
