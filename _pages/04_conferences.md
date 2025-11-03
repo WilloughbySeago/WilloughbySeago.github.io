@@ -7,6 +7,9 @@ nav-order: 4
 # Conferences, Workshops, Schools and Training
 A selection of conferences, workshops, schools and training I've attended. Mathematics means I was learning maths, non-mathematics is for (usually still maths related) training, such as education focused training.
 
+## Upcomming Mathematics Conferences
+* `2025-11-04` to `2025-11-05` [AGQ Student Conference](https://www.agq-cdt.org/events/student-conference-2025/): conference, Glasgow, Scotland
+
 ## Past Mathematics Conferences
 * `2025-06-30` to `2025-07-11` [Vertex Algebras and Integrable Systems](https://sites.google.com/view/vertex-algebras-integrable-sys): summer school and conference, Cardiff, Wales
 * `2025-03-31` to `2025-04-04` [The Dynkin Classification](https://www.combinatorial-synergies.de/activities/2025-04_SpringSchoolBochum/): spring school, Bochum, Germany
