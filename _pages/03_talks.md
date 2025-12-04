@@ -12,7 +12,9 @@ I created and organise the [_Integrable Systems and Mathematical Physics_ pre-se
 ### Fox & Hedgehog Seminar
 I am the Glasgow student organiser for the [Fox & Hedgehog seminar](https://www.agq-cdt.org/fox-hedgehog-seminar/). This is a joint seminar series with the University of Edinburg's maths department and Higgs Centre, and Heriot-Watt's maths department, aimed at a wide range of PhD students from mathematics and mathematical or theoretical physics. The seminars tend to be in the realm of mathematical physics, with a focus on the _process_ of doing mathematics, rather than the results.
 
-## Past Talks
+## Talks
+* `2025-12-10` Algebra preseminar for a talk by Sue Sierra: the classical McKay correspondence
+* `2025-12-09` Geometric Representation Theory reading group: affine Weyl groups and Hecke algebras
 * `2025-10-29` [Category theory reading group](https://www.agq-cdt.org/training/cohort-reading-groups/intermediate-category-theory/): _Category Theory in Context: 5.5. Recognizing categories of algebras & 5.6. Limits and colimits in categories of algebras_
 * `2025-06-10` Category theory reading group: _Category Theory in Context: 4.6. Existence of adjoint functors_.
 * `2025-03-19` Algebra preseminar for a talk by Raphaël Paegelow: quiver representations, Hecke algebras and braid groups associated to complex refection groups, block theory for the Ariki–Koike algebra and the corresponding combinatorics of multipartitions and abacai.
