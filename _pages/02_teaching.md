@@ -16,6 +16,7 @@ S1 and S2 mean semester 1 and 2, Y means the whole academic year.
 * Engineering Mathematics 1 Lecturer 2025/26 ([notes](https://github.com/WilloughbySeago/engineering-mathematics-lecture-notes))
     * Block 1 (S1): Algebra, functions, errors, trig, exponetials and logarithms
     * Block 4 (S2): Differentiation, chain/product rule, optimisation, Taylor series, Newton-Raphson
+ * Representation Theory TA (S2) on the [SMSTC](https://smstc.ac.uk/) course for PhD students
 
 # Past Teaching
 ## Lecturing
