@@ -13,8 +13,11 @@ I created and organise the [_Integrable Systems and Mathematical Physics_ pre-se
 I am the Glasgow student organiser for the [Fox & Hedgehog seminar](https://www.agq-cdt.org/fox-hedgehog-seminar/). This is a joint seminar series with the University of Edinburgh's maths department and Higgs Centre, and Heriot-Watt's maths department, aimed at a wide range of PhD students from mathematics and mathematical or theoretical physics. The seminars tend to be in the realm of mathematical physics, with a focus on the _process_ of doing mathematics, rather than the results.
 
 ## Talks
-* `2025-12-10` Algebra preseminar for a talk by Sue Sierra: the classical McKay correspondence
-* `2025-12-09` Geometric Representation Theory reading group: affine Weyl groups and Hecke algebras
+* `2026-04` [Introduction to Modern Advances in Algebra](https://sites.google.com/view/itmaia2026/home) lightning talk: Vertex Operators and Symmetric Functions
+* `2026-03-25` Algebra preseminar for a talk by Jonas Antor: The Hecke Category and Categorification
+* `2026-02-10` [ISMP preseminar](https://sites.google.com/view/ismp-pre-seminar/talks-202526) for a talk by Alexander Shapiro: Intro to Cluster Algebras
+* `2025-12-10` Algebra preseminar for a talk by Sue Sierra: The Classical McKay Correspondence
+* `2025-12-09` Geometric Representation Theory reading group: Affine Weyl Groups and Hecke Algebras
 * `2025-10-29` [Category theory reading group](https://www.agq-cdt.org/training/cohort-reading-groups/intermediate-category-theory/): _Category Theory in Context: 5.5. Recognizing categories of algebras & 5.6. Limits and colimits in categories of algebras_
 * `2025-06-10` Category theory reading group: _Category Theory in Context: 4.6. Existence of adjoint functors_.
 * `2025-03-19` Algebra preseminar for a talk by Raphaël Paegelow: quiver representations, Hecke algebras and braid groups associated to complex refection groups, block theory for the Ariki–Koike algebra and the corresponding combinatorics of multipartitions and abacai.
