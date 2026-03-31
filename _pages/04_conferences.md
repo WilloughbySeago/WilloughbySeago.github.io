@@ -10,6 +10,7 @@ A selection of conferences, workshops, schools and training I've attended. Mathe
 ## Mathematics Conferences
 * `2026-06-15` to `2026-06-19` [Integrable combinatorics](https://indico.math.cnrs.fr/event/14175/): conference, Paris, France
 * `2026-04-15` to `2026-04-17` [Introduction to Modern Advances in Algebra](https://sites.google.com/view/itmaia2026/home): spring school, Leeds, England
+* `2026-03-27` [Mathematical Aspects of Integrability](https://sites.google.com/view/integrability26/home): conference, Edinburgh, Scotland
 * `2025-11-04` to `2025-11-05` [AGQ Student Conference](https://www.agq-cdt.org/events/student-conference-2025/): conference, Glasgow, Scotland
 * `2025-06-30` to `2025-07-11` [Vertex Algebras and Integrable Systems](https://sites.google.com/view/vertex-algebras-integrable-sys): summer school and conference, Cardiff, Wales
 * `2025-03-31` to `2025-04-04` [The Dynkin Classification](https://www.combinatorial-synergies.de/activities/2025-04_SpringSchoolBochum/): spring school, Bochum, Germany
