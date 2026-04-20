@@ -13,7 +13,7 @@ I created and organise the [_Integrable Systems and Mathematical Physics_ pre-se
 I am the Glasgow student organiser for the [Fox & Hedgehog seminar](https://www.agq-cdt.org/fox-hedgehog-seminar/). This is a joint seminar series with the University of Edinburgh's maths department and Higgs Centre, and Heriot-Watt's maths department, aimed at a wide range of PhD students from mathematics and mathematical or theoretical physics. The seminars tend to be in the realm of mathematical physics, with a focus on the _process_ of doing mathematics, rather than the results.
 
 ## Talks
-* `2026-04` [Introduction to Modern Advances in Algebra](https://sites.google.com/view/itmaia2026/home) lightning talk: Vertex Operators and Symmetric Functions
+* `2026-04-17` [Introduction to Modern Advances in Algebra](https://sites.google.com/view/itmaia2026/home) lightning talk: [Vertex Operators and Symmetric Functions](https://github.com/WilloughbySeago/WilloughbySeago.github.io/blob/main/_files/itmaia2026-lightning-talk.pdf)
 * `2026-03-25` Algebra preseminar for a talk by Jonas Antor: The Hecke Category and Categorification
 * `2026-02-10` [ISMP preseminar](https://sites.google.com/view/ismp-pre-seminar/talks-202526) for a talk by Alexander Shapiro: Intro to Cluster Algebras
 * `2025-12-10` Algebra preseminar for a talk by Sue Sierra: The Classical McKay Correspondence
