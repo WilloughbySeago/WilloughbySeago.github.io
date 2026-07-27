@@ -1,5 +1,4 @@
 ---
-permalink: /marking
 exclude: true
 ---
 
