@@ -6,7 +6,7 @@ include:
 - _pages
 
 minima:
-  nav_pages:
+  header_pages:
     - about.md
     - teaching.md
     - talks.md
