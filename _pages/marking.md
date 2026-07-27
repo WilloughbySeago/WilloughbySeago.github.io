@@ -1,5 +1,6 @@
 ---
 permalink: /marking
+exclude: true
 ---
 
 # Marking
