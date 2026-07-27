@@ -12,3 +12,10 @@ minima:
     - talks.md
     - conferences.md
     - contact.md
+
+header_pages:
+  - about.md
+  - teaching.md
+  - talks.md
+  - conferences.md
+  - contact.md
