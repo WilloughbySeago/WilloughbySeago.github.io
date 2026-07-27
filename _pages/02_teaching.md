@@ -13,24 +13,23 @@ Details on courses at Glasgow can be found [here](https://www.gla.ac.uk/courseca
 S1 and S2 mean semester 1 and 2, Y means the whole academic year.
 
 # Current Teaching
-* Engineering Mathematics 1 Lecturer 2025/26 ([notes](https://github.com/WilloughbySeago/engineering-mathematics-lecture-notes))
+* Engineering Mathematics 1 Lecturer 2025/26 
     * Block 1 (S1): Algebra, functions, errors, trig, exponetials and logarithms
     * Block 4 (S2): Differentiation, chain/product rule, optimisation, Taylor series, Newton-Raphson
  * Representation Theory TA (S2) on the [SMSTC](https://smstc.ac.uk/) course for PhD students
 
 # Past Teaching
 ## Lecturing
+* [Widening Participation Summer School](https://www.gla.ac.uk/study/wp/summerschool/) 2026, lecturer for two weeks, covering differentiation, matrices, and systems of equations
+* Engineering Mathematics 1 Lecturer 2025/26 ([notes](https://github.com/WilloughbySeago/engineering-mathematics-lecture-notes)), blocks 1 (algebra, functions, errors, trig, exponentials, logarithms) and 4 (differentiation, chain/product rule, optimisation, Taylor series, numerical methods)
 * [Widening Participation Summer School](https://www.gla.ac.uk/study/wp/summerschool/) 2025, lecturer for two weeks, covering sets, functions, and differentiation
 
 ## Tutoring and Marking
-* Level 1
-    * Mathematics 1: tutoring and marking Y 2024/25
-* Level 2
-    * Mathematics 2A Multivariable Calculus: marking S1 2024
-    * Mathematics 2B Linear Algebra: marking S1 2024
-    * Mathematics 2D Mathematical Methods and Modelling: exam marking S2 2025
-* Level 3
-    * Dynamical Systems: tutoring and marking S2 2025
- * Level 5
-    * Principles of Probability and Statistics: exam marking S1 2024
+### Tutoring
+* [Mathematics 1](https://www.gla.ac.uk/coursecatalogue/course/?code=MATHS1017) (full year 2024/25)
+* [Dynamical Systems](https://www.gla.ac.uk/coursecatalogue/course/?code=MATHS3017) (semester 2 2025)
+* [SMSTC](https://smstc.ac.uk/) [Representation Theory](https://smstc.ac.uk/modules/representation-theory) PhD Course (semester 2 2026)
+
+### Marking
+I have experience marking both course work and final exams. I can provide details of previous marking work upon request.
   
