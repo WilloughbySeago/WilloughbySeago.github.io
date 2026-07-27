@@ -1,7 +1,8 @@
 ---
-title: Marking
 permalink: /marking
 ---
+
+# Marking
 
 I have marked various courses, both course work throughout the semester and final exams. Here is a list of courses where I have been involved in the marking.
 S1 is a semester 1 course, S2 a semester 2 course, and Y a year long course
