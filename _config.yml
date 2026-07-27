@@ -14,8 +14,8 @@ minima:
     - contact.md
 
 header_pages:
-  - about.md
-  - teaching.md
-  - talks.md
-  - conferences.md
-  - contact.md
+  - _pages/about.md
+  - _pages/teaching.md
+  - _pages/talks.md
+  - _pages/conferences.md
+  - _pages/contact.md
