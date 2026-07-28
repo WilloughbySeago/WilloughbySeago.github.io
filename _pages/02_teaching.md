@@ -13,16 +13,15 @@ Details on courses at Glasgow can be found [here](https://www.gla.ac.uk/courseca
 S1 and S2 mean semester 1 and 2, Y means the whole academic year.
 
 # Current Teaching
-* Engineering Mathematics 1 Lecturer 2025/26 
+* [Engineering Mathematics 1](https://www.gla.ac.uk/coursecatalogue/course/?code=ENG1063) ([notes](https://github.com/WilloughbySeago/engineering-mathematics-lecture-notes)) Lecturer 2026/27
     * Block 1 (S1): Algebra, functions, errors, trig, exponetials and logarithms
     * Block 4 (S2): Differentiation, chain/product rule, optimisation, Taylor series, Newton-Raphson
- * Representation Theory TA (S2) on the [SMSTC](https://smstc.ac.uk/) course for PhD students
 
 # Past Teaching
 ## Lecturing
-* [Widening Participation Summer School](https://www.gla.ac.uk/study/wp/summerschool/) 2026, lecturer for two weeks, covering differentiation, matrices, and systems of equations
+* [Widening Participation Summer School](https://www.gla.ac.uk/study/wp/summerschool/) 2026, lecturer (differentiation, matrices, and systems of equations)
 * Engineering Mathematics 1 Lecturer 2025/26 ([notes](https://github.com/WilloughbySeago/engineering-mathematics-lecture-notes)), blocks 1 (algebra, functions, errors, trig, exponentials, logarithms) and 4 (differentiation, chain/product rule, optimisation, Taylor series, numerical methods)
-* [Widening Participation Summer School](https://www.gla.ac.uk/study/wp/summerschool/) 2025, lecturer for two weeks, covering sets, functions, and differentiation
+* [Widening Participation Summer School](https://www.gla.ac.uk/study/wp/summerschool/) 2025, lecturer (sets, functions, and differentiation)
 
 ## Tutoring and Marking
 ### Tutoring
@@ -32,4 +31,3 @@ S1 and S2 mean semester 1 and 2, Y means the whole academic year.
 
 ### Marking
 I have experience marking both course work and final exams. I can provide details of previous marking work upon request.
-  
