@@ -16,7 +16,8 @@ S1 is a semester 1 course, S2 a semester 2 course, and Y a year long course
     * Mathematics 2D Mathematical Methods and Modelling: exam marking 2025
     * Mathematics 2E Mechanics: exam marking 2026
 * Level 3
-    * Dynamical Systems: tutoring and marking 2025
+    * Dynamical Systems: tutoring and marking S2 2025
     * Mathematical Methods: exam marking 2026
+    * Mathematical Methods: tutoring and marking S1 2026
  * Level 5
     * Principles of Probability and Statistics: exam marking 2024
