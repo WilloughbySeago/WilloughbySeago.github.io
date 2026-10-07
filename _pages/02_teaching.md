@@ -10,12 +10,11 @@ This means that I spend 1/3 of my time teaching.
 
 Details on courses at Glasgow can be found [here](https://www.gla.ac.uk/coursecatalogue/courselist/?code=MATHS&name=Mathematics).
 
-S1 and S2 mean semester 1 and 2, Y means the whole academic year.
-
 # Current Teaching
 * [Engineering Mathematics 1](https://www.gla.ac.uk/coursecatalogue/course/?code=ENG1063) ([notes](https://github.com/WilloughbySeago/engineering-mathematics-lecture-notes)) Lecturer 2026/27
-    * Block 1 (S1): Algebra, functions, errors, trig, exponetials and logarithms
-    * Block 4 (S2): Differentiation, chain/product rule, optimisation, Taylor series, Newton-Raphson
+    * Block 1 (semester 1): Algebra, functions, errors, trig, exponetials and logarithms
+    * Block 4 (semester 2): Differentiation, chain/product rule, optimisation, Taylor series, Newton-Raphson
+* [Mathematical Methods](https://www.gla.ac.uk/coursecatalogue/course/?code=MATHS4075) Tutor semester 1 2026
 
 # Past Teaching
 ## Lecturing
