@@ -4,12 +4,12 @@ permalink: /about
 nav-include: true
 nav-order: 1
 ---
-I'm a second year PhD student at the University of Glasgow.
+I'm a third year PhD student at the University of Glasgow.
 My research interests can broadly be described as representation theory and its applications to integrable systems.
 I'm supervised by [Christian Korff](https://sites.google.com/view/christiankorff/home/) and [Claire Gilson](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/clairegilson).
 
 My research so far has focused on applications of lattice models, inspired by statistical mechanics, to perform combinatorial calculations in the representation theory of various objects, including the symmetric group, quantum groups, Hecke algebras, Temperley-Lieb algebras, and Yang-Baxter algebras.
-I'm generally interested in most things algebraic, especially those with interesting representation theory, such as Lie algebras and Hopf algebras.
+I'm generally interested in most things algebraic, especially those with interesting representation theory, such as Lie (super) algebras and Hopf algebras.
 I find category theory interesting as a unifying language and tool, as well as for its own sake.
 Graphical notations have long been an interest of mine. Having been used in my masters project, when I was taught monoidal categories, and regularly appearing in integrable systems, for example with the R-matrix.
 I like to strike a balance between abstract theory and hands on calculations, although my heart truly lies with the abstract theory, hands on calculations are necessary to gain understanding and if you actually want to do anything with the theory.
