@@ -13,7 +13,8 @@ I created and organise the [_Integrable Systems and Mathematical Physics_ pre-se
 I am the Glasgow student organiser for the [Fox & Hedgehog seminar](https://www.agq-cdt.org/fox-hedgehog-seminar/). This is a joint seminar series with the University of Edinburgh's maths department and Higgs Centre, and Heriot-Watt's maths department, aimed at a wide range of PhD students from mathematics and mathematical or theoretical physics. The seminars tend to be in the realm of mathematical physics, with a focus on the _process_ of doing mathematics, rather than the results.
 
 ## Talks
-* `2026-09` [ARTIN](https://sites.google.com/view/artin2026/home) Marked Tableaux
+* `2026-11-09` [AGQ Student Conference](https://www.agq-cdt.org/events/student-conference-2026/) Marked Tableaux and Lie Superalgebras
+* `2026-09-09` [ARTIN](https://sites.google.com/view/artin2026/home) Marked Tableaux
 * `2026-09-07` [GEARS](https://sites.google.com/view/gears-seminar/home) Lattice Models and Supersymmetry
 * `2026-04-17` [Introduction to Modern Advances in Algebra](https://sites.google.com/view/itmaia2026/home) lightning talk: [Vertex Operators and Symmetric Functions](https://github.com/WilloughbySeago/WilloughbySeago.github.io/blob/main/_files/itmaia2026-lightning-talk.pdf)
 
